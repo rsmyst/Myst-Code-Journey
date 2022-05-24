@@ -1,0 +1,43 @@
+Answers:
+Numbers -  are just numbers. It includes float values and any integer.
+
+Strings - Anything wrapped in " or ' are strings. It could be words or even numbers.
+When assigning letters or words to variables, we need to use double quotes and it becomes a string.
+
+Lists: A set of values, either string or integer, that can be sliced and also indexed. They are of the format
+list_new = ["x",4,5,1]. Their values can also be modified by calling their index value and assinging it to something else.
+
+Tuples: Something like lists but the format is tuple = (3,4,1,"key"). They are not changeable but can be indexed.
+
+Dictionaries: Like list but you can assign all the index values a key value to call by. So, instead of calling the
+actual value stored in the dictionary, you can call the key it is assigned to.
+dictionary_new = {key1:value1, key2:value2}
+
+Equation that equals to 100.25
+answer = 5**2 *4 + 2 - (3.5 / 2)
+print(answer)
+
+Find square root and square of a number.
+number = 25
+square = number**2
+square_root = number ** 0.5
+print(square, square_root)
+
+Strings solutions:
+s = 'hello'
+print(s[1])
+print(s[::-1])
+method 1 = print(s[4])
+method 2 = print(s[-1])
+
+Lists solutions:
+list_1 = [0,0,0]
+list_2 =
+
+list3 = [1,2,[3,4,'hello']]
+print(list3[2][2])
+list3[2][2] = "goodbye"
+print(list3[2][2])
+
+Dictionaries:
+d =

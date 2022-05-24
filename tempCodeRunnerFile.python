@@ -1,0 +1,5 @@
+x = [0,1,2,3, " "]
+while " " in x:
+    print("it wasn't there")
+    x.remove(" ")
+print(x)
